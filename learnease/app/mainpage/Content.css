@@ -1,0 +1,97 @@
+.course {
+    /* position: absolute;
+    top: 72%; */
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.course-item{
+    margin: 20px;
+    width: min-content;
+}
+
+.tulisan{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.course-title {
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 1.6vw;
+    font-weight: 700;
+}
+
+
+.course-card{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 80px;
+    /* overflow-x: scroll; */
+    /* width: 100vw; */
+}
+
+.course-pic {
+    width: 15vw;
+    height: 8vw;
+    border-radius: 7px;
+}
+
+.card{
+    color: black;
+    
+    text-decoration: none;
+    
+}
+
+
+.profileq{
+    
+    display: flex;
+    align-items: center;
+    margin-bottom: 3px;
+    
+}
+
+.muka{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.rating {
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #258055;
+}
+
+
+.tes{
+    
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.judul{
+    
+    font-size: 19px;
+    font-weight:400;
+}
+
+.rating a{
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    margin-left: 7px;
+}
+
+.harga{
+    
+    font-size: 16px;
+    font-weight: 500;
+}

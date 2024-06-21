@@ -1,0 +1,17 @@
+
+
+.semualogin{
+    padding: 50px;
+ 
+    background-color: #258055
+}
+
+.containerlogin{
+    display: flex;
+    
+    background-color: #ffffff;
+    margin: auto;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+

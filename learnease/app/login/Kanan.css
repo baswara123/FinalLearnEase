@@ -1,0 +1,77 @@
+.kotakkanan{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.isi{
+    margin-top: 20px;
+}
+
+.inputemail{
+    font-size: 20px;
+    padding: 6px;
+    width: 400px;
+    border-color: rgb(187, 184, 184) ;
+    border-style: solid;
+    border-radius: 7px;
+}
+
+.inputpass{
+    font-size: 20px;
+    padding: 6px;
+    width: 400px;
+    border-color: rgb(187, 184, 184) ;
+    border-style: solid;
+    border-radius: 7px;
+}
+
+.signbtn{
+    width: 400px;
+    height: 35px;
+    margin-bottom: 20px;
+    background-color: #000000;
+    border-color: rgb(175, 164, 164) ;
+    border-style: solid;
+    border-radius: 7px;
+    color: aliceblue;
+}
+
+.email{
+    margin-bottom: 20px;
+}
+
+.password{
+    margin-bottom: 20px;
+    
+}
+
+.googlebtn{
+    width: 400px;
+    height: 35px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-color: rgb(187, 184, 184) ;
+    border-style: solid;
+    border-radius: 7px;
+}
+
+.applebtn{
+    width: 400px;
+    height: 35px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-color: rgb(187, 184, 184) ;
+    border-style: solid;
+    border-radius: 7px;
+}
+
+.forgot{
+    color: #258055;
+    text-align: end;
+}
+
+.register{
+    color: #258055;
+}

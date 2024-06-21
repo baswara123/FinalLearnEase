@@ -1,0 +1,105 @@
+
+.fullcart{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+.productcard{
+    display: flex;
+    height: 240px;
+    width: 760px;
+    border-bottom: 1px solid;
+    border-color: rgb(0, 0, 0,0.3);
+    margin-top: 40px;
+}
+
+.subtotal{
+    margin-top: 120px;
+    text-align:right;
+}
+
+.titlecart{
+    font-size: 20px;
+}
+
+.creatorcart{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.details1{
+    margin-left: 15px;
+}
+
+
+ .atas{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+ }
+
+.kanancart{
+    padding: 10px;
+    width: 400px;
+    height: 290px;
+    border: 1px solid;
+    margin-top: 77px;
+}
+
+.detailkanan{
+    display: flex;
+    justify-content: space-between;
+    font-size: 9px;
+    margin-bottom: 10px;
+    font-size: 8px;
+}
+
+.detailkanan h1{
+    font-weight: 400;
+}
+
+
+.detailkanantot{
+    display: flex;
+    justify-content: space-between;
+    font-size: 9px;
+    margin-bottom: 10px;
+}
+
+.voucher{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    border-color: rgb(0, 0, 0,0.3);
+    margin-bottom: 10px;
+    height: 35px;
+    
+}
+
+.voucherp{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.judulkanan{
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+.purchasebtn{
+    margin-top: 20px;
+    width: 380px;
+    height: 45px;
+    background-color: #1a5a48;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}

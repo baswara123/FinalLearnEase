@@ -1,0 +1,32 @@
+.Container{
+    width: 100%;
+    background-color: rgb(201, 226, 209);
+}
+
+.logof{
+    display: block;
+    height: 120px;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+.info{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.info a{
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+
+.sosmed{
+    margin-bottom: 25px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}

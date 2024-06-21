@@ -1,0 +1,14 @@
+body{
+    background-color: #258055;
+}
+
+.container{
+    /* width: 50vh; */
+    overflow: hidden;
+    display: flex;
+    /* box-shadow: 0 0 8px 0.5px; */
+    margin:  25px 90px;
+    border-radius: 14px 0px 14px 0px;
+    
+    
+}

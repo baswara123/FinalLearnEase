@@ -1,0 +1,65 @@
+.header {
+    width: 100%;
+    height: 97px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    box-shadow: 0 0.9px 0.9px 0 rgba(0, 0, 0, 0.2) ;
+    gap: 15%;
+}
+
+.logoh {
+    height: 140px;
+}
+
+.navp {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+}
+
+
+
+.searchbar {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    width: 200px;
+    height: 45px;
+    padding : 6px;
+    border-color: transparent;
+    outline: 0;
+}
+
+
+
+.areakanan{
+    display: flex;
+    align-items: center;
+}
+
+.searcharea{
+    display: flex;
+    align-items: center;
+    border: 2px solid;
+    border-color: black;
+    
+}
+
+.kaca{
+    height:20px;
+    padding-right: 7px;
+}
+
+.user{
+    height: 25px;
+    padding-left: 20px;
+}
+
+.orders{
+    text-decoration: none;
+    color: black;
+}

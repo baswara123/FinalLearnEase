@@ -1,0 +1,67 @@
+.lefts{
+    width: 35%;
+    border: 1px solid rgba(0, 0, 0, 0.301);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 19px;
+}
+
+.gambar{
+    margin-top: 25px;
+    display: flex;
+    margin-left: 15px;
+
+}
+
+.gambar .profilepic{
+    border-radius: 15px;
+    width: 200px;
+    height: auto;
+}
+
+
+
+.gambar .level{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+.library{
+    background-color: #258055;
+    
+    font-weight: bolder;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.biodata{
+    border-radius: 12px;
+    margin-top: 30px;
+    padding: 17px;
+    background-color: #258055;
+    color: white;
+}
+
+.biodata .nama{
+    margin-bottom: 7px;
+}
+
+
+
+.biodata .box{
+    
+    margin-top: 3px;
+    font-size: 14px;
+    width: 100%;
+    border-radius: 7px;
+    padding: 7px;
+    color: black;
+    border: 0.6px solid rgba(0, 0, 0, 0.5);
+    background-color: rgb(255, 255, 255);
+}
+

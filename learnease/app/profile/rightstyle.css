@@ -1,0 +1,47 @@
+.rights{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    border: 1px solid rgba(0, 0, 0, 0.322);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.right h1{
+    padding-left: 14px;
+    
+}
+
+.editcontainer{
+    
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.editbox{
+    padding: 14px;
+    width: 50%;
+}
+
+.editbox input[type]{
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-top: 3px;
+    padding: 4px;
+    width: 100%;
+}
+
+.savebtn{
+    align-self: flex-end;
+    font-weight: bolder;
+    color: white;
+    background-color: #258055;
+    width: 23%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin-right: 14px;
+    
+}

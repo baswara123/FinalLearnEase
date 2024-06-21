@@ -1,0 +1,146 @@
+.bannercontainer{
+    display: flex;
+    align-items: center ;
+    width: 100%;
+    justify-content: center;
+    box-shadow: 0 1.4px 1px 0 rgba(0, 0, 0, 0.3) ;
+}
+
+.ajak{
+    font-weight: 400;
+    margin-right: 20px;
+}
+
+.fotobn{
+    height: 50vh;
+}
+
+.upload{
+    color: rgb(0, 0, 0);
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: rgb(117, 187, 117);
+    border-radius: 10px;
+    
+}
+
+.upload:hover{
+    background-color: rgb(40, 80, 40);
+    cursor: pointer;
+    color: white;
+}
+
+.ijo1{
+    position: absolute;
+    z-index: -5;
+    right: 0vh;
+}
+
+.garis{
+    
+    position: absolute;
+    z-index: -1;
+    left: -18vh;
+    top: 24vh;
+}
+
+.icon1{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 47vh;
+    top: 47vh;
+}
+
+.icon2{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 80vh;
+    top: 20vh;
+}
+
+.icon3{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 100vh;
+    top: 58vh;
+}
+
+.icon4{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 120vh;
+    top: 40vh;
+}
+
+.icon5{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 138vh;
+    top: 20vh;
+}
+
+.icon6{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 108vh;
+    top: 29vh;
+}
+
+.icon7{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 133vh;
+    top: 50vh;
+}
+
+.icon8{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 70vh;
+    top: 55vh;
+}
+
+.icon9{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 40vh;
+    top: 28vh;
+}
+
+.icon10{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 26vh;
+    top: 53vh;
+}
+
+.icon11{
+    position: absolute;
+    color: #1a5a48;
+    opacity: 30%;
+    font-size: 50px;
+    left: 83vh;
+    top: 45vh;
+}
